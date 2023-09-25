@@ -1,5 +1,5 @@
 # Second-Hand-Games-Fullstack
-Full-stack app made for advertising 2nd hand games, made in 2020.
+Full-stack app made for advertising 2nd hand games.
 
 The backend is written in JS using nodeJS and the following technologies:
 - express
